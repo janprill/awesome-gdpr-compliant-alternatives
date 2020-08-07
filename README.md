@@ -1,0 +1,1 @@
+# awesome-gdpr-compliant-alternatives
